@@ -4,8 +4,8 @@ export const personalInfo = {
   role: 'Medical Billing & RCM Specialist | Team Lead',
   experience: '4+ Years in U.S. Healthcare Operations',
   focus: 'Medical Billing | RCM | Credentialing',
-  email: 'mustejab@mail.com', // Set your professional contact email here (e.g. 'contact@practice.com')
-  linkedin: 'www.linkedin.com/in/mustejab', // Optional: your LinkedIn profile URL (e.g. 'https://linkedin.com/in/yourname')
+  email: 'mustejab.gardezi000@gmail.com', // Set your professional contact email here (e.g. 'contact@practice.com')
+  linkedin: 'https://www.linkedin.com/in/syed-mustejab-67768a37a', // Optional: your LinkedIn profile URL (e.g. 'https://linkedin.com/in/yourname')
   bio: [
     'I am a dedicated Medical Billing and Revenue Cycle Management (RCM) Specialist with over 4 years of experience in the U.S. healthcare industry, helping healthcare organizations manage billing operations, improve claims processing efficiency, address reimbursement challenges, and maintain a more organized revenue cycle.',
     'As a Team Lead, I combine technical billing knowledge, analytical problem-solving, workflow management, and team leadership skills to support practices, groups, and billing operations that need steady, detail-driven follow-through.',

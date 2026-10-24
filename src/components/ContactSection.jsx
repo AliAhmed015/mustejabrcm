@@ -68,6 +68,8 @@ export function ContactSection() {
           {directMailHref ? (
             <a
               href={directMailHref}
+              target="_blank"
+              rel="noopener noreferrer"
               className="contact-detail-link"
               aria-label={`Email ${personalInfo.name}`}
               title={email}
